@@ -38,3 +38,6 @@ function App() {
 }
 
 export default App;
+
+// https://www.npmjs.com/package/@google/generative-ai
+// https://ai.google.dev/tutorials/get_started_web
