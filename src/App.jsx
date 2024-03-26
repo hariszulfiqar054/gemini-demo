@@ -41,3 +41,4 @@ export default App;
 
 // https://www.npmjs.com/package/@google/generative-ai
 // https://ai.google.dev/tutorials/get_started_web
+// Can you please help me create a new dish with these ingredients
